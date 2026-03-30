@@ -14,7 +14,7 @@ A special visual storytelling portfolio showcasing my journey in Computer Animat
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR-USERNAME]&layout=compact&theme=tokyonight)
 
 ## 🎥 Recent Projects
-- **[Project Name 1]:** An animated explainer on how to use animation in github
+- **[Project Name 1]:** An animated explainer on 🚀 [Live Cyber-Security Scanner](https://chathurthi7.github.io/Chromink/animations/cyber-security.html)
 - **[Project Name 2]:** A deep-dive article on AI Policy in India.
 
 ## 📫 Let's Connect
