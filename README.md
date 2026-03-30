@@ -3,7 +3,6 @@ A special visual storytelling portfolio showcasing my journey in Computer Animat
 # Hi there, I'm Chathurthi M! 👋
 ### 🖋️ Journalist | 🎨 Animator | 🛡️ Cyber-Ethics Advocate
 
-![Your Animated Banner URL Here]
 
 ## 🚀 About Me
 - 🎓 **Studying:** BA in English, Journalism, and Computer Animation at St. Agnes.
