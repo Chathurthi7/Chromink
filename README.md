@@ -10,7 +10,7 @@ A special visual storytelling portfolio showcasing my journey in Computer Animat
 - 🌍 **Mission:** Using visual storytelling to simplify complex cybersecurity & AI ethics.
 
 ## 📊 My Creative Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=[YOUR-USERNAME]&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=[Chathurthi M]&theme= LEARN GITHUB WITH ME)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR-USERNAME]&layout=compact&theme=tokyonight)
 
 ## 🎥 Recent Projects
